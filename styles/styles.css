@@ -1,0 +1,21 @@
+
+#nfaTable {
+	display:inline-block;
+	width:40%;
+	padding:10px;
+}
+table {
+  border-collapse: separate;
+  width: 50%;
+	
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+  border: 2px solid #000000 ;
+}
+
+td:hover {
+	color: white;
+	background-color:#000000 ;}
