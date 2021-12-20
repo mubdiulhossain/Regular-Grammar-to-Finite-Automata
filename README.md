@@ -1,4 +1,4 @@
-# Regular-Grammer-to-Finite-Automata
+# Regular-Grammar-to-Finite-Automata
 
 RG to NFA,
 RG to NFA w/o e,
